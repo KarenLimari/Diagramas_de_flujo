@@ -30,6 +30,7 @@ Una guía paso a paso sobre cómo configurar el entorno de desarrollo e instalar
 
 ##Diagrama de flujo
 
+```mermaid
 graph TD
 A[Inicio] --> B[Solicitar numero1]
 B --> C[Obtener numero1]
@@ -39,6 +40,7 @@ E --> F[Realizar la suma de numero1 y numero2]
 F --> G[Redondear la suma hacia arriba]
 G --> H[Mostrar el resultado]
 H --> I[Fin]
+```
 
 ## Instrucciones para Ejecutar el Proyecto
 
@@ -50,7 +52,7 @@ Instrucciones para ejecutar el proyecto una vez instalado.
 
 ## Autor
 
-- [Karen Limari](https://github.com/KarenLimari)
+-Karen Limari [Karen Limari](github.com/KarenLimari)
 
 ## Licencia
 
